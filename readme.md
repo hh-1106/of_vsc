@@ -6,7 +6,7 @@
 
 > 使用方法 放到of根目录下
 
-```
+```xml
 /of
   /addons
   /apps
@@ -14,3 +14,7 @@
   /projectGenerator-vs
   	/projectGenerator.exe
 ```
+
+
+
+### [如何优雅地在vscode里整openframeworks](https://zhuanlan.zhihu.com/p/183147117)

@@ -2,3 +2,15 @@
 
 有空再研究研究
 
+
+
+> 使用方法 放到of根目录下
+
+```
+/of
+  /addons
+  /apps
+  ...
+  /projectGenerator-vs
+  	/projectGenerator.exe
+```
